@@ -23,5 +23,4 @@ public class FileDataController {
     }
 
 //TODO get mapping
-//TODO DB connection
 }
