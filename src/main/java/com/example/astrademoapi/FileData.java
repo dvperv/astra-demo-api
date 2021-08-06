@@ -13,6 +13,8 @@ public class FileData {
 
     private String path;
 
+    private int npoints;
+
     private Binary data;
 
     private float result = -1;
